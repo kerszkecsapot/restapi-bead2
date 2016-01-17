@@ -1,9 +1,16 @@
 # Alkalmazások fejlesztése
-- 3. beadandó - Bacsa Roland - AE8YTH
+- 3. beadandó feladat
+- Bacsa Roland
+- AE8YTH
+- EmberJS projekt: [https://github.com/kerszkecsapot/emberjs-bead](emberjs-bead)
 
-## Ember JS projekt
-- [github.com/kerszkecsapot/emberjs-bead](https://github.com/kerszkecsapot/emberjs-bead/)
+## Fejlesztés
+### Fejlesztőeszközök
+- c9.io
+- EmberJS https://github.com/kerszkecsapot/emberjs-bead
 
-## RestApi elindítása
-- Nyisd meg a `server.js` fájlt, és kattints a RUN feliratú gombra!
-- Másik lehetőség: bash paranccsal való indítás: `node server.js`
+### Fejlesztői utasítások
+- Repository klónozása: `git clone https://github.com/kerszkecsapot/restapi-bead2`
+
+### Futtatás
+- `node server.js`
