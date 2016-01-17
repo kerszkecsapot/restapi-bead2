@@ -2,12 +2,12 @@
 - 3. beadandó feladat
 - Bacsa Roland
 - AE8YTH
-- EmberJS projekt: [https://github.com/kerszkecsapot/emberjs-bead](emberjs-bead)
+- EmberJS projekt: [emberjs-bead](https://github.com/kerszkecsapot/emberjs-bead)
 
 ## Fejlesztés
 ### Fejlesztőeszközök
 - c9.io
-- EmberJS https://github.com/kerszkecsapot/emberjs-bead
+- EmberJS
 
 ### Fejlesztői utasítások
 - Repository klónozása: `git clone https://github.com/kerszkecsapot/restapi-bead2`
